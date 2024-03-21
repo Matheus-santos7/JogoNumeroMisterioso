@@ -18,7 +18,7 @@ O objetivo do jogo é adivinhar o número secreto escolhido pelo computador. O j
 
 ## Executando o Jogo
 
-[URL para entrar no jogo:](https://jogo-numero-misterioso.vercel.app)
+URL para jogar: [https://jogo-numero-misterioso.vercel.app](https://jogo-numero-misterioso.vercel.app)
 
 ## Contribuições
 
